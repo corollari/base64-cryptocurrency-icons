@@ -1,3 +1,5 @@
+<h3 align="center">All development has been moved to <a href="https://github.com/onramper/small-open-datasets">@onramper/small-open-datasets</a></h3>
+
 # base64-cryptocurrency-icons
 > A collection of base64-encoded cryptocurrency icons
 
