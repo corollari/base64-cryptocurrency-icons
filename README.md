@@ -1,4 +1,4 @@
-<h3 align="center">All development has been moved to <a href="https://github.com/onramper/small-open-datasets">@onramper/small-open-datasets</a></h3>
+<h3 align="center">All development has been moved to <a href="https://github.com/onramper/small-open-datasets/tree/master/base64-cryptocurrency-icons#readme">@onramper/small-open-datasets</a></h3>
 <br>
 
 # base64-cryptocurrency-icons
